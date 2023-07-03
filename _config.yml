@@ -1,15 +1,15 @@
-title:              Open Source Blogs
+title:              Awesome FOSS Blogs
 email:              saagar.nandinis.cer21@itbhu.ac.in
 description:        A teenagers guide to Open Source
 author:             Nandini Saagar
 baseurl:            ""
-url:                "https://opensourceblogs.github.io"
+url:                "https://awesomefossblogs.github.io"
 
 # Social Profiles
 twitter_username:   
 github_username:    
 facebook_username:  
-instagram_username:  
+instagram_username: 
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
